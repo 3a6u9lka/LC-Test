@@ -1,0 +1,9 @@
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\obj\Debug\People.csproj.CopyComplete
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Чащины\source\repos\WebApplication1\ClassLibrary1\obj\Debug\People.csprojAssemblyReference.cache
